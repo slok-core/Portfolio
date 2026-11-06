@@ -132,7 +132,7 @@ const PROJECTS = [
     category: "wedding",
     type: "video", // <-- YouTube Widescreen
     duration: "02:36",
-    thumbnail: generateCinematicSvg("Haldi Festivities", ["#e1d550", "#e34848", "#d48e31"]),
+    thumbnail: "https://img.youtube.com/vi/SpF6DE5m-Tc/maxresdefault.jpg",
     videoUrl: "https://www.youtube.com/embed/SpF6DE5m-Tc"
   },
   {
@@ -141,7 +141,7 @@ const PROJECTS = [
     category: "wedding",
     type: "video",
     duration: "27:44",
-    thumbnail: generateCinematicSvg("High Energy Workout", ["#1d1f23", "#0b0c0e", "#ef8243"]),
+    thumbnail: "https://img.youtube.com/vi/1qQ41lPEh20/maxresdefault.jpg",
     videoUrl: "https://youtu.be/1qQ41lPEh20"
   },
   {
